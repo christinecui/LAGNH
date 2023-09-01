@@ -22,7 +22,7 @@ title = {Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for S
 
 booktitle = {MM},
 
-pages = {3451--3460},
+pages = {1432--1440},
 
 year = {2021} 
 }
